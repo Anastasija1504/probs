@@ -365,6 +365,6 @@ function finishGame(){
 
 display.classList.add("small-text");
 </script>
-
 </body>
 </html>
+
